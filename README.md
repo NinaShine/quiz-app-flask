@@ -18,7 +18,8 @@ A quiz app where user can create as well as give tests based on Flask micro fram
 ## Installation
 
 ```bash
-pip install -r requirements.txt
+pip install flask
+pip install flask_socketio
 ```
 
 ## Usage
